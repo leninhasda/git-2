@@ -4,5 +4,5 @@
 ```
 git init
 git add ---> prepare for save/commit
-git commit - "message"
+git commit - "message" ----> save files
 ```
